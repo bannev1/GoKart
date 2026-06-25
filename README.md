@@ -1,2 +1,3 @@
-# GoKart
-Go kart repo
+# Go Kart
+
+Code and files for the go kart
